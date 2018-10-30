@@ -1,2 +1,2 @@
-hello github
-hello javascript
+Hello Github
+Hello Javascript
