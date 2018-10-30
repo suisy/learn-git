@@ -1,2 +1,4 @@
+Hello Github
+Hello Javascript
 hello world
 hello git
